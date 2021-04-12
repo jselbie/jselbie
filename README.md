@@ -12,7 +12,7 @@ Here's a list of some interesting projects I have hosted on Github:
 
 [Cyber Radio 1](https://github.com/jselbie/CyberRadio1) - Before there was [WREK Online](https://github.com/jselbie/wrekonline), there was Cyber Radio 1. I wrote this client and server code in 1995 so that we could listen to WREK from the computer labs at Georgia Tech and on the various Unix workstation labs and across the Internet. While I'm super embarrased about the quality of code, I'm proud of what it did at the time (C).
 
-[React-Tac-Toe](https://github.com/jselbie/React-Tac-Toe) - My first React JS app. (React, Javascript, HTML)
+[React-Tac-Toe](https://github.com/jselbie/React-Tac-Toe) - My first React JS app. (React, Javascript, HTML). Play it [here](https://www.selbie.com/react-tac-toe)
 
 
 
