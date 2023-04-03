@@ -14,7 +14,7 @@ Here's a list of some interesting projects I have hosted on Github:
 
 [React-Tac-Toe](https://github.com/jselbie/React-Tac-Toe) - My first React JS app. (React, Javascript, HTML). Play it [here](https://www.selbie.com/react-tac-toe)
 
-[xkcdclock2](https://github/com/jselbie/xkcdclock2) - My foray back into Android programming while learning Kotlin at the same time.
+[xkcdclock2](https://github.com/jselbie/xkcdclock2) - My foray back into Android programming while learning Kotlin at the same time.
 
 
 
